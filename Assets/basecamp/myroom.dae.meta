@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 17a837c4dafbe9d4cb190cd5d76eb3d6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: set_green-geom-P0
+    100004: set_green-geom-P1
+    100006: set_myroom-geom-P0
+    100008: set_myroom-geom-P1
+    100010: set_myroom-geom-P10
+    100012: set_myroom-geom-P11
+    100014: set_myroom-geom-P12
+    100016: set_myroom-geom-P13
+    100018: set_myroom-geom-P14
+    100020: set_myroom-geom-P15
+    100022: set_myroom-geom-P16
+    100024: set_myroom-geom-P17
+    100026: set_myroom-geom-P18
+    100028: set_myroom-geom-P19
+    100030: set_myroom-geom-P2
+    100032: set_myroom-geom-P20
+    100034: set_myroom-geom-P3
+    100036: set_myroom-geom-P4
+    100038: set_myroom-geom-P5
+    100040: set_myroom-geom-P6
+    100042: set_myroom-geom-P7
+    100044: set_myroom-geom-P8
+    100046: set_myroom-geom-P9
+    400000: //RootNode
+    400002: set_green-geom-P0
+    400004: set_green-geom-P1
+    400006: set_myroom-geom-P0
+    400008: set_myroom-geom-P1
+    400010: set_myroom-geom-P10
+    400012: set_myroom-geom-P11
+    400014: set_myroom-geom-P12
+    400016: set_myroom-geom-P13
+    400018: set_myroom-geom-P14
+    400020: set_myroom-geom-P15
+    400022: set_myroom-geom-P16
+    400024: set_myroom-geom-P17
+    400026: set_myroom-geom-P18
+    400028: set_myroom-geom-P19
+    400030: set_myroom-geom-P2
+    400032: set_myroom-geom-P20
+    400034: set_myroom-geom-P3
+    400036: set_myroom-geom-P4
+    400038: set_myroom-geom-P5
+    400040: set_myroom-geom-P6
+    400042: set_myroom-geom-P7
+    400044: set_myroom-geom-P8
+    400046: set_myroom-geom-P9
+    2100000: bg06_dk_floor01_mat
+    2100002: bc01_du_wall01_mat
+    2100004: bc01_du_doors03_mat
+    2100006: bg06_dd_wall03_mat
+    2100008: bc01_du_pillar01_mat
+    2100010: bg06_dk_wall02_mat
+    2100012: bg06_da_biggate03_mat
+    2100014: bc01_du_roof01_mat
+    2100016: bg06_da_biggate04_mat
+    2100018: bc01_du_wall02_mat1
+    2100020: bc01_du_floor01_mat
+    2100022: bc01_du_wall02_mat
+    2100024: bg06_hk_pillar01_mat
+    2100026: bg06_hk_wall05_mat
+    2100028: bg06_hk_wall03_mat
+    2100030: bg06_dh_epillar01_mat
+    2100032: bg06_dk_wall03_mat
+    2100034: bc01_dp_wall01_mat1
+    2100036: bg06_hk_ornament01_mat
+    2100038: bg06_dk_window01_mat
+    2100040: bg06_hk_window01_mat
+    2100042: bg05_ka_reaf02_mat
+    2100044: bg05_ka_reaf01_mat
+    2300000: set_green-geom-P0
+    2300002: set_green-geom-P1
+    2300004: set_myroom-geom-P0
+    2300006: set_myroom-geom-P1
+    2300008: set_myroom-geom-P10
+    2300010: set_myroom-geom-P11
+    2300012: set_myroom-geom-P12
+    2300014: set_myroom-geom-P13
+    2300016: set_myroom-geom-P14
+    2300018: set_myroom-geom-P15
+    2300020: set_myroom-geom-P16
+    2300022: set_myroom-geom-P17
+    2300024: set_myroom-geom-P18
+    2300026: set_myroom-geom-P19
+    2300028: set_myroom-geom-P2
+    2300030: set_myroom-geom-P20
+    2300032: set_myroom-geom-P3
+    2300034: set_myroom-geom-P4
+    2300036: set_myroom-geom-P5
+    2300038: set_myroom-geom-P6
+    2300040: set_myroom-geom-P7
+    2300042: set_myroom-geom-P8
+    2300044: set_myroom-geom-P9
+    3300000: set_green-geom-P0
+    3300002: set_green-geom-P1
+    3300004: set_myroom-geom-P0
+    3300006: set_myroom-geom-P1
+    3300008: set_myroom-geom-P10
+    3300010: set_myroom-geom-P11
+    3300012: set_myroom-geom-P12
+    3300014: set_myroom-geom-P13
+    3300016: set_myroom-geom-P14
+    3300018: set_myroom-geom-P15
+    3300020: set_myroom-geom-P16
+    3300022: set_myroom-geom-P17
+    3300024: set_myroom-geom-P18
+    3300026: set_myroom-geom-P19
+    3300028: set_myroom-geom-P2
+    3300030: set_myroom-geom-P20
+    3300032: set_myroom-geom-P3
+    3300034: set_myroom-geom-P4
+    3300036: set_myroom-geom-P5
+    3300038: set_myroom-geom-P6
+    3300040: set_myroom-geom-P7
+    3300042: set_myroom-geom-P8
+    3300044: set_myroom-geom-P9
+    4300000: set_myroom-geom-P0
+    4300002: set_myroom-geom-P1
+    4300004: set_myroom-geom-P2
+    4300006: set_myroom-geom-P3
+    4300008: set_myroom-geom-P4
+    4300010: set_myroom-geom-P5
+    4300012: set_myroom-geom-P6
+    4300014: set_myroom-geom-P7
+    4300016: set_myroom-geom-P8
+    4300018: set_myroom-geom-P9
+    4300020: set_myroom-geom-P10
+    4300022: set_myroom-geom-P11
+    4300024: set_myroom-geom-P12
+    4300026: set_myroom-geom-P13
+    4300028: set_myroom-geom-P14
+    4300030: set_myroom-geom-P15
+    4300032: set_myroom-geom-P16
+    4300034: set_myroom-geom-P17
+    4300036: set_myroom-geom-P18
+    4300038: set_myroom-geom-P19
+    4300040: set_myroom-geom-P20
+    4300042: set_green-geom-P0
+    4300044: set_green-geom-P1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
