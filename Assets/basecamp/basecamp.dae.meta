@@ -39,6 +39,7 @@ ModelImporter:
     100066: set_tent-geom-P0
     100068: set_tent-geom-P1
     100070: set_tent-geom-P2
+    100072: set_tent-geom-P1_001
     400000: //RootNode
     400002: set_base-geom-P0
     400004: set_base-geom-P1
@@ -75,6 +76,7 @@ ModelImporter:
     400066: set_tent-geom-P0
     400068: set_tent-geom-P1
     400070: set_tent-geom-P2
+    400072: set_tent-geom-P1_001
     2100000: bg06_hk_wall03_mat
     2100002: bg06_hk_wall05_mat
     2100004: bc01_du_wall02_mat1
@@ -144,6 +146,7 @@ ModelImporter:
     2300064: set_tent-geom-P0
     2300066: set_tent-geom-P1
     2300068: set_tent-geom-P2
+    2300070: set_tent-geom-P1_001
     3300000: set_base-geom-P0
     3300002: set_base-geom-P1
     3300004: set_base-geom-P10
@@ -179,6 +182,7 @@ ModelImporter:
     3300064: set_tent-geom-P0
     3300066: set_tent-geom-P1
     3300068: set_tent-geom-P2
+    3300070: set_tent-geom-P1_001
     4300000: set_bg06_rail01-geom-P0
     4300002: set_bg06_rail01-geom-P1
     4300004: set_bg06_window05-geom-P0
@@ -214,8 +218,179 @@ ModelImporter:
     4300064: set_bg06_gear-geom-P3
     4300066: set_bg06_gear-geom-P4
     4300068: set_bg06_gear-geom-P5
+    4300070: set_tent-geom-P1_001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_dg_tent01_mat
+    second: {fileID: 2100000, guid: 0bf0db3b474eab6479fc2f0ac3face67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_dh_wood01_mat
+    second: {fileID: 2100000, guid: 78dd0e21d7a36d347a48718fca538a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_do_iron01_mat
+    second: {fileID: 2100000, guid: 2fba4b6753710234e93823ca909e614a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_do_iron02_mat
+    second: {fileID: 2100000, guid: ea65fad7a435520489df4cc3e136305f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_do_iron03_mat
+    second: {fileID: 2100000, guid: c7204d42cdfef2946893aba52aa7894c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_do_iron04_mat
+    second: {fileID: 2100000, guid: 66316733e0dbacc48a9579789ac91293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_do_roof01_mat
+    second: {fileID: 2100000, guid: 1e3e84bcaf8296c42937fbbf46c5d8b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_dp_wood01_mat
+    second: {fileID: 2100000, guid: 554908e2f33f3174d8fe92873a89d93a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_bground01_mat
+    second: {fileID: 2100000, guid: 3044ae13cfe24c14d856a63349d7c32f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_floor01_mat
+    second: {fileID: 2100000, guid: 313978e4ab5093b4883bd1f5c6bb50a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_roof01_mat
+    second: {fileID: 2100000, guid: 1438c22d673db9c419b3922d782d2913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_tile01_mat
+    second: {fileID: 2100000, guid: b16c2574922cb6240bab4dfc29d6b3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_wall01_mat
+    second: {fileID: 2100000, guid: b9f9b559e29aaab4887bb1f0e531cc13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_wall01_mat1
+    second: {fileID: 2100000, guid: 351fcb26aa62b664ea74e65019c38a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_wall02_mat
+    second: {fileID: 2100000, guid: 04e4218eaec698f4d8c20bc21dac8ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bc01_du_wall02_mat1
+    second: {fileID: 2100000, guid: 77609cd535eb731489ac28412f2cf315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dc_light01_mat
+    second: {fileID: 2100000, guid: 3ad0e126850130e4c9e3e0a9cf8ca171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dc_metal00_mat
+    second: {fileID: 2100000, guid: 867a158a5687aaa47972dcf1fd7b5940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dc_metal02_mat
+    second: {fileID: 2100000, guid: 0428bb8480717494a9f9b5c1df305512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dk_metal03_mat
+    second: {fileID: 2100000, guid: f6652078d6476524e86c26d5b0a36a49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dk_metal05_mat
+    second: {fileID: 2100000, guid: b17d213c3ba8d8447a9a0f454ebdcb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dk_metal06_mat
+    second: {fileID: 2100000, guid: 03d126f5bd194294a922db5297c21227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dk_metal08_mat
+    second: {fileID: 2100000, guid: e566a22178b824d4e86fc6aaef2f7265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dk_metal09_mat
+    second: {fileID: 2100000, guid: a9e4609105c8ca345b7ad74c1274ddc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dk_metal10_mat
+    second: {fileID: 2100000, guid: 93445adf5e6be3843ac59eec90769f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_do_light02_mat
+    second: {fileID: 2100000, guid: abd4e6f0169c6704bb4f5775b58ffa6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_dy_base01_mat
+    second: {fileID: 2100000, guid: 9e3e7b3dbba6b1447870b03ea47df666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_hk_base02_mat
+    second: {fileID: 2100000, guid: 1f03150975608904994835834b8e9d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_hk_ornament01_mat
+    second: {fileID: 2100000, guid: 4f3b779d628438343bf2772b4a3f80cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_hk_pillar01_mat
+    second: {fileID: 2100000, guid: 797991df71fad0646a1272608064a927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_hk_wall03_mat
+    second: {fileID: 2100000, guid: a7610547c829ed04ba01bd85e00b0c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_hk_wall05_mat
+    second: {fileID: 2100000, guid: bf39c6df434bc904bb85bc8263c1817b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bg06_hk_window01_mat
+    second: {fileID: 2100000, guid: 47171f738b847fa4da4c0264311d3071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gim_ch022_du_woods31_mat
+    second: {fileID: 2100000, guid: 4c1f0f065c9a745489ac4efcdc39a675, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
