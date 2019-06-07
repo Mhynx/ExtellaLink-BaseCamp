@@ -6,7 +6,7 @@ A map for VRChat based on the main base camp map from Fate/Extella Link.
 - [x] Import models
 - [x] Import materials
 - [x] Place models together(including props)
-- [x] Replace weird model parts with better custom model(for example, the water on the fountain)
+- [ ] Replace weird model parts with better custom model(for example, the water on the fountain)
 - [ ] Fix textures and finish materials
 - [ ] Import Extella Link character models with idle animations
 - [ ] Add avatar pedestals for the imported models
