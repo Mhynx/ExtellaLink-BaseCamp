@@ -21,4 +21,4 @@ Our Discords:
 - [ ] Optimize for best fps as best as posible
 - [ ] Publish
 
-**__All of the characters and models belong to Type/moon, XSEED Games, and Marvelous. We not take any credit for any of the content of this map that doesn't difer from the original__**
+**_All of the characters and models belong to Type/moon, XSEED Games, and Marvelous. We not take any credit for any of the content of this map that doesn't difer from the original_**
