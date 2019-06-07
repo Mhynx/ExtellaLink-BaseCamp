@@ -1,5 +1,6 @@
 # ExtellaLink-BaseCamp
-A map for VRChat based on the main base camp map from Fate/Extella Link. Made by Mhynx and SonikoKatsura:
+A map for VRChat based on the main base camp map from Fate/Extella Link. Made by Mhynx and SonikoKatsura.
+
 Our Discords:
  - **Mhynx#0420**
  - **Mhynx#0420**
