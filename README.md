@@ -1,7 +1,7 @@
 # ExtellaLink-BaseCamp
 A map for VRChat based on the main base camp map from Fate/Extella Link.
 
-##To do list:
+## To do list:
 
 - [x] Import models
 - [x] Import materials
