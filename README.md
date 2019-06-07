@@ -3,7 +3,7 @@ A map for VRChat based on the main base camp map from Fate/Extella Link. Made by
 
 Our Discords:
  - **Mhynx#0420**
- - **Mhynx#0420**
+ - **Soniko#5593**
 
 ## To do list:
 
